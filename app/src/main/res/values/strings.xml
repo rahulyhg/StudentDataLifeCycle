@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">StudentDataLifeCycle</string>
+    <string name="add_student_profile">Student profile</string>
+
+
+    <array name="rollnumbers">
+        <item>Select Registration Number</item>
+        <item>146B1A0401</item>
+        <item>146B1A0402</item>
+        <item>146B1A0403</item>
+        <item>146B1A0404</item>
+        <item>146B1A0405</item>
+        <item>146B1A0406</item>
+        <item>146B1A0407</item>
+        <item>146B1A0408</item>
+        <item>146B1A0409</item>
+        <item>146B1A0410</item>
+        <item>146B1A0411</item>
+        <item>146B1A0412</item>
+        <item>146B1A0413</item>
+        <item>146B1A0414</item>
+        <item>146B1A0415</item>
+        <item>146B1A0416</item>
+        <item>146B1A0417</item>
+        <item>146B1A0418</item>
+        <item>146B1A0419</item>
+        <item>146B1A0420</item>
+        <item>146B1A0421</item>
+        <item>146B1A0422</item>
+        <item>146B1A0423</item>
+        <item>146B1A0424</item>
+        <item>146B1A0425</item>
+        <item>146B1A0426</item>
+        <item>146B1A0427</item>
+        <item>146B1A0428</item>
+        <item>146B1A0429</item>
+        <item>146B1A0430</item>
+        <item>146B1A0431</item>
+        <item>146B1A0432</item>
+        <item>146B1A0433</item>
+        <item>146B1A0434</item>
+        <item>146B1A0435</item>
+        <item>146B1A0436</item>
+        <item>146B1A0437</item>
+        <item>146B1A0438</item>
+        <item>146B1A0439</item>
+        <item>146B1A0440</item>
+        <item>146B1A0441</item>
+        <item>146B1A0442</item>
+        <item>146B1A0443</item>
+        <item>146B1A0444</item>
+        <item>146B1A0445</item>
+        <item>156B5A0401</item>
+        <item>156B5A0402</item>
+        <item>156B5A0403</item>
+        <item>156B5A0404</item>
+        <item>156B5A0405</item>
+        <item>156B5A0406</item>
+        <item>156B5A0407</item>
+        <item>156B5A0408</item>
+        <item>156B5A0409</item>
+    </array>
+</resources>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "562122755340",
+    "firebase_url": "https://studentdatalifecycle.firebaseio.com",
+    "project_id": "studentdatalifecycle",
+    "storage_bucket": "studentdatalifecycle.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562122755340:android:1b4bc674c6dc8a0d",
+        "android_client_info": {
+          "package_name": "com.projects.anil.studentdatalifecycle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "562122755340-f6deg3fjq7eoocg3jihc06p4r6u24qfv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.projects.anil.studentdatalifecycle",
+            "certificate_hash": "ebf73875f52576fdbe87519ef04d3cc21b8d516e"
+          }
+        },
+        {
+          "client_id": "562122755340-4l7ega6ac25j27845haglaik2udlnag5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoq_YgGMmPF015sqghAY2Fbp5F-pDdNE4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "562122755340-4l7ega6ac25j27845haglaik2udlnag5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
